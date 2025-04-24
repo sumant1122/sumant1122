@@ -7,9 +7,9 @@ Senior Systems Analyst
 * 🌍  I'm based in Bangalore/Bengaluru, India
 * 🖥️  See my portfolio at [My Portfolio](http://sumant1122.github.io)
 * ✉️  You can contact me at [sumant1122@gmail.com](mailto:sumant1122@gmail.com)
-* 🧠  I'm learning Go
-* 🤝  I'm open to collaborating on project that are related systems programming and low level in nature.
-* ⚡  Been learning linux kernel programming
+* 🧠  I'm learning about AI tools and implementing them 
+* 🤝  I'm open to collaborating on project that are related to systems programming and low level in nature.
+* ⚡  Been learning Linux Kernel programming
 
 ### Skills
 
