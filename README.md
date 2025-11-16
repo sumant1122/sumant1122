@@ -1,15 +1,15 @@
 Hi 👋 My name is Sumant Sogikar
 ===============================
 
-Senior Systems Analyst
+Senior Systems Analyst - AI Agents & Systems Optimization
 ----------------------
 
 * 🌍  I'm based in Bangalore/Bengaluru, India
 * 🖥️  See my portfolio at [My Portfolio](http://sumant1122.github.io)
 * ✉️  You can contact me at [sumant1122@gmail.com](mailto:sumant1122@gmail.com)
-* 🧠  I'm learning about AI tools and implementing them 
-* 🤝  I'm open to collaborating on project that are related to systems programming and low level in nature.
-* ⚡  Been learning Linux Kernel programming
+* 🧠  Actively developing and implementing AI Agents, focusing on Large Language Models (LLMs) and systems integration
+* 🤝  Open to collaboration on AI Agent Frameworks, LLM Integration, and performance-critical Distributed Systems
+* ⚡   Expertise in Python for Data and AI, and building robust Data/MLOps Pipelines.
 
 ### Skills
 
