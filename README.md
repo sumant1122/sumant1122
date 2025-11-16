@@ -1,7 +1,7 @@
 Hi 👋 My name is Sumant Sogikar
 ===============================
 
-Senior Systems Analyst - AI Agents & Systems Optimization
+Senior Backend & DevOps Engineer | AI Systems Builder
 ----------------------
 
 * 🌍  I'm based in Bangalore/Bengaluru, India
