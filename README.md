@@ -1,25 +1,101 @@
-Hi 👋 My name is Sumant Sogikar
-===============================
+<div align="center">
 
-Senior Backend & DevOps Engineer | AI Systems Builder
-----------------------
+```
+███████╗██╗   ██╗███╗   ███╗ █████╗ ███╗   ██╗████████╗
+██╔════╝██║   ██║████╗ ████║██╔══██╗████╗  ██║╚══██╔══╝
+███████╗██║   ██║██╔████╔██║███████║██╔██╗ ██║   ██║   
+╚════██║██║   ██║██║╚██╔╝██║██╔══██║██║╚██╗██║   ██║   
+███████║╚██████╔╝██║ ╚═╝ ██║██║  ██║██║ ╚████║   ██║   
+╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   
+```
 
-* 🌍  I'm based in Bangalore/Bengaluru, India
-* 🖥️  See my portfolio at [My Portfolio](http://sumant1122.github.io)
-* ✉️  You can contact me at [sumant1122@gmail.com](mailto:sumant1122@gmail.com)
-* 🧠  Actively developing and implementing AI Agents, focusing on Large Language Models (LLMs) and systems integration
-* 🤝  Open to collaboration on AI Agent Frameworks, LLM Integration, and performance-critical Distributed Systems
-* ⚡   Expertise in Python for Data and AI, and building robust Data/MLOps Pipelines.
+# Sumant Sogikar
 
-### Skills
+### Senior Backend & DevOps Engineer · AI Systems Builder
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](http://sumant1122.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumant-sogikar)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/sumant1122)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sumant1122)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumant1122@gmail.com)
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
-</p>
+📍 **Bangalore, India** &nbsp;|&nbsp; 🚀 Open to AI & Distributed Systems Collaboration
 
+</div>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/sumant1122" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sumant-sogikar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://medium.com/@sumant1122" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
+## 👨‍💻 About Me
+
+I'm a **Senior Backend & DevOps Engineer** with deep expertise in building **high-performance distributed systems** and cutting-edge **AI-powered applications**. I architect robust, scalable infrastructure and fuse it with modern LLM capabilities — turning complex engineering problems into elegant, production-grade solutions.
+
+- 🤖 &nbsp;Actively building and deploying **AI Agents** and **LLM-integrated systems** at scale
+- ⚙️ &nbsp;Designing **fault-tolerant distributed architectures** that handle real-world complexity
+- 🔁 &nbsp;Engineering **Data/MLOps pipelines** that bridge the gap between experimentation and production
+- 🛠️ &nbsp;Passionate about **DevOps culture**: automation, observability, and zero-downtime deployments
+- 🤝 &nbsp;Open to collaborating on **AI Agent Frameworks**, **LLM integrations**, and **performance-critical systems**
+
+---
+
+## 🧠 Core Competencies
+
+### Backend Engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+
+### AI & Data
+![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=flat-square&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-7B2FBE?style=flat-square&logo=anthropic&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white)
+![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-FF4B4B?style=flat-square&logo=apacheairflow&logoColor=white)
+
+---
+
+## 🏗️ What I Build
+
+| Domain | Focus Areas |
+|---|---|
+| 🤖 **AI Systems** | LLM integration, Agentic workflows, RAG pipelines, prompt engineering |
+| ⚡ **Distributed Systems** | High-throughput services, event-driven architecture, microservices |
+| 🔄 **DevOps & CI/CD** | Containerization, cloud-native deployments, infrastructure automation |
+| 🗄️ **Data Engineering** | ETL/ELT pipelines, MLOps, real-time data processing |
+| 🖥️ **Backend Systems** | Scalable APIs, performance optimization, systems design |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Sumant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumant1122&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumant1122&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sumant1122&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+
+</div>
+
+---
+
+## ✍️ Latest Writing
+
+I write about AI engineering, distributed systems, and DevOps on [Medium](https://medium.com/@sumant1122). Topics include LLM integration patterns, scalable architecture, and practical MLOps.
+
+---
+
+<div align="center">
+
+*"Building the infrastructure that makes intelligent systems possible."*
+
+**Let's connect and build something remarkable →** [sumant1122@gmail.com](mailto:sumant1122@gmail.com)
+
+</div>
