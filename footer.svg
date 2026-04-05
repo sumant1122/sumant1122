@@ -1,0 +1,9 @@
+<svg width="800" height="60" viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#3fb950" opacity="0.1" d="M0,30 Q200,60 400,30 Q600,0 800,30 L800,60 L0,60 Z">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0,30 Q200,60 400,30 Q600,0 800,30 L800,60 L0,60 Z;M0,40 Q200,10 400,40 Q600,70 800,40 L800,60 L0,60 Z;M0,30 Q200,60 400,30 Q600,0 800,30 L800,60 L0,60 Z" />
+  </path>
+  <text x="400" y="40" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#8b949e" text-anchor="middle" opacity="0.8">
+    Reliability is a feature, not a hope.
+    <animate attributeName="opacity" values="0.4;0.9;0.4" dur="4s" repeatCount="indefinite" />
+  </text>
+</svg>
