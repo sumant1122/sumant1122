@@ -1,12 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ADD8,100:00FFA3&height=200&section=header&text=Sumant&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20DevOps%20Engineer%20·%20Systems%20%26%20DevTools%20Builder&descAlignY=58&descSize=16&animation=fadeIn" />
+<svg width="100%" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#0a2535"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00ADD8"/>
+      <stop offset="100%" style="stop-color:#00FFA3"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="url(#bg)" rx="12"/>
+  <path d="M0,160 Q200,100 400,140 Q600,180 800,120 L800,200 L0,200 Z" fill="#00ADD8" opacity="0.08"/>
+  <path d="M0,175 Q200,130 400,160 Q600,190 800,150 L800,200 L0,200 Z" fill="#00FFA3" opacity="0.05"/>
+  <text x="400" y="95" font-family="monospace" font-size="52" font-weight="bold" fill="white" text-anchor="middle">Sumant</text>
+  <rect x="160" y="108" width="480" height="2" fill="url(#accent)" rx="1" opacity="0.6"/>
+  <text x="400" y="138" font-family="monospace" font-size="14" fill="#8b949e" text-anchor="middle">Backend &amp; DevOps Engineer · Systems &amp; DevTools Builder</text>
+  <circle cx="90" cy="80" r="3" fill="#00ADD8" opacity="0.5"/>
+  <circle cx="710" cy="120" r="2" fill="#00FFA3" opacity="0.5"/>
+  <circle cx="730" cy="60" r="4" fill="#00ADD8" opacity="0.3"/>
+  <circle cx="70" cy="140" r="2" fill="#00FFA3" opacity="0.4"/>
+</svg>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=00ADD8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+tools+that+make+complex+systems+...;...+easier+to+understand.)](https://git.io/typing-svg)
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=00ADD8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Building+tools+that+make+complex+systems+...;...+easier+to+understand.)](https://git.io/typing-svg)
 
 ### Hi 👋, I'm Sumant
 
@@ -64,15 +84,12 @@ CLI / TUI-based developer tools
 
 ## 📌 Selected Work
 
-<div align="center">
-
-[![AgentLog](https://github-readme-stats.vercel.app/api/pin/?username=sumant1122&repo=AgentLog&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ADD8&icon_color=00FFA3&text_color=c9d1d9)](https://github.com/sumant1122/AgentLog)
-[![Conveyor](https://github-readme-stats.vercel.app/api/pin/?username=sumant1122&repo=Conveyor&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ADD8&icon_color=00FFA3&text_color=c9d1d9)](https://github.com/sumant1122/Conveyor)
-
-[![Nucleus](https://github-readme-stats.vercel.app/api/pin/?username=sumant1122&repo=Nucleus&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ADD8&icon_color=00FFA3&text_color=c9d1d9)](https://github.com/sumant1122/Nucleus)
-[![x86-Kernel-101](https://github-readme-stats.vercel.app/api/pin/?username=sumant1122&repo=x86-Kernel-101&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ADD8&icon_color=00FFA3&text_color=c9d1d9)](https://github.com/sumant1122/x86-Kernel-101)
-
-</div>
+| | Project | Description |
+|---|---|---|
+| ⚙️ | [**AgentLog**](https://github.com/sumant1122/AgentLog) | Event-driven system for agent workflows |
+| 🧱 | [**Conveyor**](https://github.com/sumant1122/Conveyor) | Local CI/CD engine with DAG execution |
+| 🧪 | [**Nucleus**](https://github.com/sumant1122/Nucleus) | Minimal container engine |
+| 🧠 | [**x86-Kernel-101**](https://github.com/sumant1122/x86-Kernel-101) | Small kernel built from scratch |
 
 ---
 
@@ -125,4 +142,19 @@ I write about systems, AI, and infrastructure engineering on Medium.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFA3,50:00ADD8,100:0d1117&height=120&section=footer&fontSize=0" />
+<div align="center">
+
+<svg width="100%" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footer-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00FFA3;stop-opacity:0.6"/>
+      <stop offset="50%" style="stop-color:#00ADD8;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#00FFA3;stop-opacity:0.6"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,0 Q200,50 400,20 Q600,-10 800,40 L800,80 L0,80 Z" fill="url(#footer-grad)" opacity="0.15"/>
+  <path d="M0,20 Q200,60 400,35 Q600,10 800,55 L800,80 L0,80 Z" fill="#00ADD8" opacity="0.08"/>
+  <text x="400" y="55" font-family="monospace" font-size="12" fill="#8b949e" text-anchor="middle" opacity="0.7">Thank you for visiting</text>
+</svg>
+
+</div>
