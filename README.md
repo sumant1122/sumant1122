@@ -1,101 +1,106 @@
-<div align="center">
+# Hi, I'm Sumant
 
-```
-███████╗██╗   ██╗███╗   ███╗ █████╗ ███╗   ██╗████████╗
-██╔════╝██║   ██║████╗ ████║██╔══██╗████╗  ██║╚══██╔══╝
-███████╗██║   ██║██╔████╔██║███████║██╔██╗ ██║   ██║   
-╚════██║██║   ██║██║╚██╔╝██║██╔══██║██║╚██╗██║   ██║   
-███████║╚██████╔╝██║ ╚═╝ ██║██║  ██║██║ ╚████║   ██║   
-╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   
-```
+<p align="center">
+  <b>Backend & DevOps Engineer · Systems & DevTools Builder</b>
+</p>
 
-# Sumant Sogikar
-
-### Senior Backend & DevOps Engineer · AI Systems Builder
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](http://sumant1122.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumant-sogikar)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/paperplaneflyr)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sumant1122)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumant1122@gmail.com)
-
-📍 **Bangalore, India** &nbsp;|&nbsp; 🚀 Open to AI & Distributed Systems Collaboration
-
-</div>
+<p align="center">
+  Building tools to make infrastructure easier to understand, debug, and operate.
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## ⚙️ About Me
 
-I'm a **Senior Backend & DevOps Engineer** with deep expertise in building **high-performance distributed systems** and cutting-edge **AI-powered applications**. I architect robust, scalable infrastructure and fuse it with modern LLM capabilities — turning complex engineering problems into elegant, production-grade solutions.
+I build systems that are easy to operate, debug, and reason about.
 
-- 🤖 &nbsp;Actively building and deploying **AI Agents** and **LLM-integrated systems** at scale
-- ⚙️ &nbsp;Designing **fault-tolerant distributed architectures** that handle real-world complexity
-- 🔁 &nbsp;Engineering **Data/MLOps pipelines** that bridge the gap between experimentation and production
-- 🛠️ &nbsp;Passionate about **DevOps culture**: automation, observability, and zero-downtime deployments
-- 🤝 &nbsp;Open to collaborating on **AI Agent Frameworks**, **LLM integrations**, and **performance-critical systems**
+- ⚡ Focused on distributed systems, DevOps, and developer tooling  
+- 🖥️ Exploring terminal-first workflows (CLI/TUI tools)  
+- 🧠 Interested in Linux internals and low-level systems  
 
 ---
 
-## 🧠 Core Competencies
+## 🚀 What I'm Building
 
-### Backend Engineering
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+- 🔥 **InfraTop** *(in progress)*  
+  Terminal UI for Kubernetes — like `htop` for your cluster  
 
-### DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+- ⚙️ **AgentLog**  
+  Lightweight event bus for AI agents  
+  <sub>Kafka × `tail -f` × JSON logs</sub>
 
-### AI & Data
-![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=flat-square&logo=openai&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-7B2FBE?style=flat-square&logo=anthropic&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white)
-![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-FF4B4B?style=flat-square&logo=apacheairflow&logoColor=white)
+- 🧱 **Conveyor**  
+  Local-first CI/CD engine with real-time TUI  
+
+- 🧪 **Nucleus**  
+  Minimal container runtime written in Rust  
 
 ---
 
-## 🏗️ What I Build
+## 🧠 Areas of Interest
 
-| Domain | Focus Areas |
-|---|---|
-| 🤖 **AI Systems** | LLM integration, Agentic workflows, RAG pipelines, prompt engineering |
-| ⚡ **Distributed Systems** | High-throughput services, event-driven architecture, microservices |
-| 🔄 **DevOps & CI/CD** | Containerization, cloud-native deployments, infrastructure automation |
-| 🗄️ **Data Engineering** | ETL/ELT pipelines, MLOps, real-time data processing |
-| 🖥️ **Backend Systems** | Scalable APIs, performance optimization, systems design |
+- Distributed systems & event-driven architecture  
+- Kubernetes, containers, and observability  
+- Linux internals & low-level systems  
+- CLI / TUI-based developer tools  
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Stack
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+</p>
 
-![Sumant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumant1122&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumant1122&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sumant1122&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
-</div>
-
----
-
-## ✍️ Latest Writing
-
-I write about AI engineering, distributed systems, and DevOps on [Medium](https://medium.com/@sumant1122). Topics include LLM integration patterns, scalable architecture, and practical MLOps.
+<p>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+</p>
 
 ---
 
-<div align="center">
+## 📌 Selected Work
 
-*"Building the infrastructure that makes intelligent systems possible."*
+- ⚙️ **AgentLog** – event-driven system for agent workflows  
+- 🧱 **Conveyor** – local CI/CD engine with DAG execution  
+- 🧪 **Nucleus** – minimal container engine  
+- 🧠 **x86-Kernel-101** – small kernel built from scratch  
 
-**Let's connect and build something remarkable →** [sumant1122@gmail.com](mailto:sumant1122@gmail.com)
+---
 
-</div>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumant1122&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumant1122&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## ✍️ Writing
+
+I write about systems, AI, and infrastructure engineering on Medium.
+
+---
+
+## 🤝 Connect
+
+<p>
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR_HANDLE">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
+  </a>
+</p>
+
+📧 sumant1122@gmail.com  
+
+---
+
+<p align="center">
+  <i>Building tools that make complex systems easier to understand.</i>
+</p>
